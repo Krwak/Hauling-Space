@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "hauling_space",
+    "name": "Hauling Space",
+    "authors": [ "Esther", "Coolthulu" ],
+    "maintainers": [ "Krwak" ],
+    "description": "adds hauling space item to the game",
+    "category": "items",
+    "dependencies": [ "bn" ]
+  }  
+]
